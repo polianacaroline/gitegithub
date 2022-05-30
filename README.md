@@ -3,3 +3,6 @@
 tutorial de uso das ferramentas Github
 ## Autora
 Poliana Caroline Lopes De Souza
+## playlist
+[iniciar tutorial](https://joseassis.com.br/cursos/gitegithub.html)
+
