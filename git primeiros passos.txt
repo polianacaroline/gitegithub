@@ -13,4 +13,17 @@ Clonando um repositório:
 git clone repositório
 
 Atualizando um repositório clonado:
-git pull
+git pull--> clona 
+repositorio, copiar, clonar no terminal
+novo repositorio no git hub 
+ -[ ] transforma em uma linguagem de programação, UM CHECK DE TOPICO.tutorial kanban
+  git config --global user.name "poliana caroline lopes de souza"
+  #titulo
+  ## subtitulo
+  https://shields.io/category/license (selo no github)
+https://html5css3.com.br/
+clonando repositorio
+comandos basicos: clearn-> apagar a tela
+pwd -> exibir o diretorio atualizado
+git clone, clona para seus arquivos
+arrastar para upload do git
